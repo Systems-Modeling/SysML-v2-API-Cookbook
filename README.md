@@ -16,6 +16,6 @@ This recipe shows patterns and examples for fetching and creating commits, branc
 See the Jupyter notebook **Project_Commit_Branch_Tag_Recipe.ipynb** for details.
 
 ### Queries recipe
-This recipe shows patterns and examples for formulating and executing queries in a project.
+This recipe shows patterns and examples for formulating and executing queries in a project. Examples show queries with multiple constraints.
 
-See the Jupyter notebook **Project_Commit_Branch_Tag_Recipe.ipynb** for details.
+See the Jupyter notebook **Queries.ipynb** for details.
