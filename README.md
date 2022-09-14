@@ -15,7 +15,16 @@ This recipe shows patterns and examples for fetching and creating commits, branc
 
 See the Jupyter notebook **Project_Commit_Branch_Tag_Recipe.ipynb** for details.
 
+### Element Create, Update, Delete recipe
+This recipe shows patterns and examples for creating, updating, and deleting elements in project commits.
+
+See the Jupyter notebook **Element_Create_Update_Delete.ipynb** for details.
+
 ### Queries recipe
 This recipe shows patterns and examples for formulating and executing queries in a project. Examples show queries with multiple constraints.
 
 See the Jupyter notebook **Queries.ipynb** for details.
+
+
+
+
